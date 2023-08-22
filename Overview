@@ -1,0 +1,1 @@
+In summary, this code reads a BMP image, applies a Gaussian blur effect to it, and saves the blurred image to a new BMP file. It demonstrates basic image manipulation and processing techniques using C.
